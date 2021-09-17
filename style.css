@@ -26,3 +26,15 @@ body{
      text-align: center;
      padding: 20px;
  }
+ #greet{
+     
+     font-size: 45px;
+     width: 50%;
+     text-align: center;
+     margin: auto;
+     font-style: italic;
+     font-weight: 600;
+     text-shadow: 2px 2px 5px red;
+   
+
+ }
