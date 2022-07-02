@@ -1,11 +1,13 @@
-body{
+
+body {
     background-color: rgb(241, 238, 234);
     background-image: url("background.jpg");
     background-attachment: fixed;
     background-position: right;
     background-repeat: no-repeat;
 }
-#asif{
+
+#asif {
     background-color: antiquewhite;
     width: 50%;
     height: 400px;
@@ -13,64 +15,146 @@ body{
     margin: auto;
     text-align: center;
 }
- #asif2{
-     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-     font-size: 40px;
- }
- #argho{
-     background-color: black;
-     color: white;
-     font-size: 50px;
-     font-family: 'Times New Roman', Times, serif;
-     width: 50%;
-     text-align: center;
-     padding: 20px;
- }
- #greet{
-     
-     font-size: 40px;
-     width: 50%;
-     text-align: center;
-     margin: auto;
-     font-style: italic;
-     font-weight: 600;
-     text-shadow: 2px 2px 5px red;
-   
 
- }
+#asif2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
 
- #name {
-            font-family: Arial, Helvetica, sans-serif;
-            font-size: 50px;
-            background-color: bisque;
-            color: brown;
-            text-align: center;
-            padding: 10px;
-            width: 50%;
-            margin-left: auto;
-            margin-right: auto;
+#argho {
+    background-color: black;
+    color: white;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 50%;
+    text-align: center;
+    padding: 20px;
+}
 
-        }
+#greet {
 
-        .school {
-            font-size: 20px;
-            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-            color: white;
-            background-color: black;
-            text-align: center;
-            margin-right: auto;
-            padding: 10px;
-            width: 30%;
+    font-size: 40px;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    font-style: italic;
+    font-weight: 600;
+    text-shadow: 2px 2px 5px red;
 
-        }
 
-        #curzon {
-            width: 50%;
-            height: auto;
-        }
+}
 
-        #heading1 {
-            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-            font-style: italic;
-            font-size: 20px;
-        }
+#name {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    background-color: bisque;
+    color: brown;
+    text-align: center;
+    padding: 10px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.school {
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: black;
+    text-align: center;
+    margin-right: auto;
+    padding: 10px;
+    width: 30%;
+body {
+    background-color: rgb(241, 238, 234);
+    background-image: url("background.jpg");
+    background-attachment: fixed;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+#asif {
+    background-color: antiquewhite;
+    width: 50%;
+    height: 400px;
+    border: 1px solid red;
+    margin: auto;
+    text-align: center;
+}
+
+#asif2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+
+#argho {
+    background-color: black;
+    color: white;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 50%;
+    text-align: center;
+    padding: 20px;
+}
+
+#greet {
+
+    font-size: 40px;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    font-style: italic;
+    font-weight: 600;
+    text-shadow: 2px 2px 5px red;
+
+
+}
+
+#name {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    background-color: bisque;
+    color: brown;
+    text-align: center;
+    padding: 10px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.school {
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: black;
+    text-align: center;
+    margin-right: auto;
+    padding: 10px;
+    width: 30%;
+
+}
+
+#curzon {
+    width: 50%;
+    height: auto;
+}
+
+#heading1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: 20px;
+}
+}
+
+#curzon {
+    width: 50%;
+    height: auto;
+}
+
+#heading1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: 20px;
+}
