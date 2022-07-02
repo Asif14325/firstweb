@@ -38,3 +38,39 @@ body{
    
 
  }
+
+ #name {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 50px;
+            background-color: bisque;
+            color: brown;
+            text-align: center;
+            padding: 10px;
+            width: 50%;
+            margin-left: auto;
+            margin-right: auto;
+
+        }
+
+        .school {
+            font-size: 20px;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            color: white;
+            background-color: black;
+            text-align: center;
+            margin-right: auto;
+            padding: 10px;
+            width: 30%;
+
+        }
+
+        #curzon {
+            width: 50%;
+            height: auto;
+        }
+
+        #heading1 {
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-style: italic;
+            font-size: 20px;
+        }
